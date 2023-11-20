@@ -32,7 +32,6 @@ namespace Amal
                 if (logtype == "admin")
                 {
                     Response.Redirect("Product.aspx");
-
                 }
                 else if (logtype == "user")
                 {
